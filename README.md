@@ -62,8 +62,6 @@ composer create-project nilanth/laravel-react-boilerplate
 9. Update API HOST_URL in `resources/js/config/constant.js` file
 
 ### Option 2
-
-
 1. Clone this Repo
 2. `cd laravel-react-boilerplate`
 3. Create a .env by copying .env.example and Update the required fields.
@@ -77,13 +75,6 @@ composer create-project nilanth/laravel-react-boilerplate
 11. Run `yarn run dev`
 12. Update API HOST_URL in `resources/js/config/constant.js` file
 
-### Coming Up 
-
-- Tests
-- Custom Error response for API request
-- Reset Password
-- Email Verification
-
 ## Contributing
 
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
@@ -95,7 +86,6 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## Credits
 
 -   [Nilanth](https://github.com/nilanth)
--   [All Contributors](../../contributors)
 
 ## License
 
